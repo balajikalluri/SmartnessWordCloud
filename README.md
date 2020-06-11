@@ -18,3 +18,6 @@ Note:
 3. All other topics in the demo.xlsx such as technology, solutions, port, growth, work, regulation, health etc. that have fewer mentions in the literature are grouped under "others". 
 
 Disclaimer: Python Script in Juypter notebook is not developed by me from scratch, rather compiled from open-source material for the purpose of this analysis. The script is commented and made self-readable
+
+Cite this article when you use this source dataset or code: 
+B. Kalluri, C. Chronopoulos, and I. Kozine, “Towards connecting the dots: Cyber-physical systems and risks in buildings,” (manuscript in preparation). To be submitted in Building Research and Information
