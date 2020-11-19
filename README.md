@@ -20,4 +20,5 @@ Note:
 Disclaimer: Python Script in Juypter notebook is not developed by me from scratch, rather compiled from open-source material for the purpose of this analysis. The script is commented and made self-readable
 
 Cite this article when you use this source dataset or code: 
-B. Kalluri, C. Chronopoulos, and I. Kozine, “Towards connecting the dots: Cyber-physical systems and risks in buildings,” (manuscript in preparation). To be submitted in Building Research and Information
+B. Kalluri, C. Chronopoulos, and I. Kozin, (accepted and in-press), “The Concept of Smartness in Cyber-Physical Systems and Connection to Urban Environment,” Annual Reviews in Control, Elsevier. 10.1016/j.arcontrol.2020.10.009
+
